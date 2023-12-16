@@ -13,12 +13,12 @@ const exampleShowData = {
         {
             id: 0,
             name: 'Season 1',
-            episode:[]
+            episodes:[]
         },
         {
             id: 1,
             name: 'Season 2',
-            episode:[]
+            episodes:[]
         }
     ]
  };
